@@ -74,3 +74,40 @@ for (let m = 0; m < 5; m++) {
 let name = "John";
 let age = 30;
 console.log(`My name is ${name} and I am ${age} years old.`);
+
+
+// >>>>>>>>>>>>>>>>>>>>>>>>>>> Task 01 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+// Task: JavaScript Loop Practice
+
+// Scenario:
+// You're creating a series of exercises to practice different types of loops
+// and control statements in JavaScript.
+
+// 1. For Loop:
+// Create a program that prints the first 10 multiples of 7.
+
+// 2. While Loop:
+// Write a countdown timer that starts at 10 and ends at 0.
+
+// 3. Do-While Loop:
+// Create a simple number guessing game. The correct number is 42. 
+// Keep asking the user for a guess until they get it right.
+
+// 4. ForEach Loop:
+// Given an array of numbers, use forEach to print each number doubled.
+
+// 5. For...in Loop:
+// Create an object representing a car with properties like make, model, and year.
+// Use a for...in loop to print all the properties and their values.
+
+// 6. For...of Loop:
+// Given an array of fruits, use a for...of loop to print each fruit in uppercase.
+
+// 7. Break Statement:
+// Write a program that finds the first number divisible by both 3 and 7 
+// between 1 and 100. Use a loop and the break statement.
+
+// 8. Continue Statement:
+// Print all numbers from 1 to 20, but skip multiples of 3. Use a loop 
+// and the continue statement.
